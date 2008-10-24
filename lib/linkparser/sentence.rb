@@ -87,6 +87,8 @@ class LinkParser::Sentence
 	def singleton_class
 		class << self; self; end
 	end
+  
+private
 	
 
 	### Proxy method -- auto-delegate calls to the first linkage.
