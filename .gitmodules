@@ -1,0 +1,3 @@
+[submodule "rake"]
+	path = rake
+	url = git://github.com/smtlaissezfaire/deveiate-rake-tasklibs.git
