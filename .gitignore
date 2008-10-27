@@ -2,3 +2,7 @@ ext/*.o
 ext/Rakefile
 ext/mkrf.log
 ext/linkparser_ext.bundle
+
+#emacs files
+*#*
+.#*
