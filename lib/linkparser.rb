@@ -33,7 +33,7 @@
 #  $Id$
 # 
 
-require 'linkparser_ext'
+require File.dirname(__FILE__) + '/../ext/linkparser_ext.so'
 
 
 ### Additional high-level functionality for the LinkParser library.
